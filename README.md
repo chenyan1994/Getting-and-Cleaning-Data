@@ -19,4 +19,5 @@ In order to use run_analysis.R, simply import it into RStudio, and run all the c
 #### CodeBook.md
 This file contains information about the variables, the summary choices and the experimental study design used in the process of cleaning data.
 
-
+#### tidy_data.txt
+This file is the output of run_analysis.R, which is a tidy data set. 
